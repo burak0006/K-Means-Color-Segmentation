@@ -21,5 +21,8 @@ Execute following commands for install library:
 $ pip install opencv-python
 $ pip install numpy
 $ pip install matplotlib
-$ pip install matplotlib
+$ pip install pandas
 ```
+## Results
+
+<img src="https://github.com/burak0006/K-Means-Color-Segmentation/blob/main/watermelon.jpg?raw=true" width = "400" height = "300"/> <img src="https://github.com/burak0006/K-Means-Color-Segmentation/blob/main/segmented.jpg?raw=true" width = "400" height = "300"/>
